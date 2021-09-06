@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**AM-Aiswarya/AM-Aiswarya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#      Aiswarya Mahesh       
+#      am-Aiswarya       
 
-Here are some ideas to get you started:
+#  Software Engineer to be💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LOOKING TO SOLVE REAL WORLD PROBLEMS.
+
+- 🧑‍still learning...
+
+# 🌈 Web Developer
+
+  
+### 📳 TOUCH ME
+* [Instagram](https://www.instagram.com/_aiswarya_mahesh_/)
+* [facebook](https://www.facebook.com/aiswarya.mahesh.73)
+
+
+
+# ✨It's not received it's ACHIEVED.
