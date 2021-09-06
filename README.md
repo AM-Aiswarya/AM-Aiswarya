@@ -1,7 +1,6 @@
-### Hi there 👋
 
 #      Aiswarya Mahesh       
-#      am-Aiswarya       
+#      AM-Aiswarya       
 
 #  Software Engineer to be💻
 
